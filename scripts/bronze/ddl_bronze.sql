@@ -1,4 +1,13 @@
+/*
+=====================================================
+Create Bronze Tables
+=====================================================
 
+Script Purpose:
+This SQL script is used to create the 6 tables that we will use as part of our 'Bronze' layer...
+
+------------------------------------------------------------------------------------------------------------------------------
+*/
 
 
 --creating tables for our CRM data within our 'bronze' schema
