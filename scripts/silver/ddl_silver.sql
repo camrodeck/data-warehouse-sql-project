@@ -1,3 +1,13 @@
+/*
+=====================================================
+Create Silver Tables
+=====================================================
+
+Script Purpose:
+This SQL script is used to create the 6 tables that we will use as part of our 'Silver' layer...
+
+------------------------------------------------------------------------------------------------------------------------------
+*/
 --creating tables for our CRM data within our 'silver' schema
 DROP TABLE IF EXISTS silver.crm_cust_info;
 CREATE TABLE silver.crm_cust_info (
