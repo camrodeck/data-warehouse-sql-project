@@ -1,4 +1,4 @@
-# Data Catalogue for "Gold" Layer of Warehouse
+# Data Catalog for "Gold" Layer of Warehouse
 
 ## Summary:
 The Gold Layer is the top-level (business level) representation, structured to support analytical and reporting use cases.  It consists 
