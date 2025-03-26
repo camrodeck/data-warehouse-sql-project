@@ -42,7 +42,8 @@ HAVING COUNT(*) > 1
 --=====================================================
 --checking 'gold.fact_sales'
 --=====================================================
---check the data model connectivity between fact & dimensions
+-- Check the data model connectivity between fact & dimensions
+-- Expectation: No results should be returned.
 SELECT *
 FROM gold.fact_sales as s
 LEFT JOIN gold.dim_customers c
