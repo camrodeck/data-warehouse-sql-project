@@ -8,8 +8,8 @@ This SQL script is used to create the Gold Layer "Views" that will be used for a
 ------------------------------------------------------------------------------------------------------------------------------
 */
 
---Creating Views for our 'Gold' schema -- this schema is what will be used for analytics & reporting.  Here we combine our various 'Silver' schema
- --together into more meaningful views for reporting and business end-users.
+/*Creating Views for our 'Gold' schema -- this schema is what will be used for analytics & reporting.  Here we combine our various 'Silver' 
+  schema tables together into more meaningful views for reporting and business end-users.*/
 
 --===========================================================
 --create the Customers dimension VIEW...
